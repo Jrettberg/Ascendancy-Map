@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 4d0431aa88f83004388313442d1125dd
+timeCreated: 1492820792
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_Earth_Infantry
+    100002: b_head
+    100004: b_hips
+    100006: b_L_arm_fore
+    100008: b_L_arm_shield
+    100010: b_L_arm_shld
+    100012: b_L_arm_up
+    100014: b_L_arm_wrist
+    100016: b_L_IK_Heel
+    100018: b_L_IK_Roll
+    100020: b_L_IK_Toe
+    100022: b_L_knee
+    100024: b_L_leg_foot
+    100026: b_L_leg_foot_001
+    100028: b_L_leg_IK
+    100030: b_L_leg_low
+    100032: b_L_leg_toe_01
+    100034: b_L_leg_toe_01_guide
+    100036: b_L_leg_toe_02
+    100038: b_L_leg_toe_02_guide
+    100040: b_L_leg_toe_master
+    100042: b_L_leg_up
+    100044: b_neck_01
+    100046: b_R_arm_fore
+    100048: b_R_arm_IK
+    100050: b_R_arm_sword
+    100052: b_R_arm_up
+    100054: b_R_elbow
+    100056: b_R_IK_Heel
+    100058: b_R_IK_Roll
+    100060: b_R_IK_Toe
+    100062: b_R_knee
+    100064: b_R_leg_foot
+    100066: b_R_leg_footRoll
+    100068: b_R_leg_IK
+    100070: b_R_leg_low
+    100072: b_R_leg_toe_01
+    100074: b_R_leg_toe_02
+    100076: b_R_leg_toe_guide_01
+    100078: b_R_leg_toe_guide_02
+    100080: b_R_leg_toe_master
+    100082: b_R_leg_up
+    100084: b_spine_low
+    100086: b_spine_upper
+    100088: //RootNode
+    100090: m_proxy_head_001
+    100092: m_proxy_L_arm_001
+    100094: m_proxy_L_foot_001
+    100096: m_proxy_L_leg_001
+    100098: m_proxy_L_shldr_001
+    100100: m_proxy_L_toe_1_001
+    100102: m_proxy_L_toe_2_001
+    100104: m_proxy_lower_torso_001
+    100106: m_proxy_R_arm_001
+    100108: m_proxy_R_foot_001
+    100110: m_proxy_R_leg_001
+    100112: m_proxy_R_toe_1_001
+    100114: m_proxy_R_toe_2_001
+    100116: m_proxy_shield_001
+    100118: m_proxy_sword_001
+    100120: m_proxy_upper_torso_001
+    400000: Arm_Earth_Infantry
+    400002: b_head
+    400004: b_hips
+    400006: b_L_arm_fore
+    400008: b_L_arm_shield
+    400010: b_L_arm_shld
+    400012: b_L_arm_up
+    400014: b_L_arm_wrist
+    400016: b_L_IK_Heel
+    400018: b_L_IK_Roll
+    400020: b_L_IK_Toe
+    400022: b_L_knee
+    400024: b_L_leg_foot
+    400026: b_L_leg_foot_001
+    400028: b_L_leg_IK
+    400030: b_L_leg_low
+    400032: b_L_leg_toe_01
+    400034: b_L_leg_toe_01_guide
+    400036: b_L_leg_toe_02
+    400038: b_L_leg_toe_02_guide
+    400040: b_L_leg_toe_master
+    400042: b_L_leg_up
+    400044: b_neck_01
+    400046: b_R_arm_fore
+    400048: b_R_arm_IK
+    400050: b_R_arm_sword
+    400052: b_R_arm_up
+    400054: b_R_elbow
+    400056: b_R_IK_Heel
+    400058: b_R_IK_Roll
+    400060: b_R_IK_Toe
+    400062: b_R_knee
+    400064: b_R_leg_foot
+    400066: b_R_leg_footRoll
+    400068: b_R_leg_IK
+    400070: b_R_leg_low
+    400072: b_R_leg_toe_01
+    400074: b_R_leg_toe_02
+    400076: b_R_leg_toe_guide_01
+    400078: b_R_leg_toe_guide_02
+    400080: b_R_leg_toe_master
+    400082: b_R_leg_up
+    400084: b_spine_low
+    400086: b_spine_upper
+    400088: //RootNode
+    400090: m_proxy_head_001
+    400092: m_proxy_L_arm_001
+    400094: m_proxy_L_foot_001
+    400096: m_proxy_L_leg_001
+    400098: m_proxy_L_shldr_001
+    400100: m_proxy_L_toe_1_001
+    400102: m_proxy_L_toe_2_001
+    400104: m_proxy_lower_torso_001
+    400106: m_proxy_R_arm_001
+    400108: m_proxy_R_foot_001
+    400110: m_proxy_R_leg_001
+    400112: m_proxy_R_toe_1_001
+    400114: m_proxy_R_toe_2_001
+    400116: m_proxy_shield_001
+    400118: m_proxy_sword_001
+    400120: m_proxy_upper_torso_001
+    4300000: m_proxy_upper_torso_001
+    4300002: m_proxy_sword_001
+    4300004: m_proxy_shield_001
+    4300006: m_proxy_lower_torso_001
+    4300008: m_proxy_head_001
+    4300010: m_proxy_R_toe_2_001
+    4300012: m_proxy_R_toe_1_001
+    4300014: m_proxy_R_leg_001
+    4300016: m_proxy_R_foot_001
+    4300018: m_proxy_R_arm_001
+    4300020: m_proxy_L_toe_1_001
+    4300022: m_proxy_L_toe_2_001
+    4300024: m_proxy_L_shldr_001
+    4300026: m_proxy_L_leg_001
+    4300028: m_proxy_L_foot_001
+    4300030: m_proxy_L_arm_001
+    7400000: Default Take
+    7400002: Arm_Earth_Infantry_Walk
+    7400004: EarthInfantry_Attack
+    7400006: EarthInfantry_Death
+    7400008: EarthInfantry_Idle
+    7400010: EarthInfantry_Idle_001
+    9500000: //RootNode
+    13700000: m_proxy_head_001
+    13700002: m_proxy_L_arm_001
+    13700004: m_proxy_L_foot_001
+    13700006: m_proxy_L_leg_001
+    13700008: m_proxy_L_shldr_001
+    13700010: m_proxy_L_toe_1_001
+    13700012: m_proxy_L_toe_2_001
+    13700014: m_proxy_lower_torso_001
+    13700016: m_proxy_R_arm_001
+    13700018: m_proxy_R_foot_001
+    13700020: m_proxy_R_leg_001
+    13700022: m_proxy_R_toe_1_001
+    13700024: m_proxy_R_toe_2_001
+    13700026: m_proxy_shield_001
+    13700028: m_proxy_sword_001
+    13700030: m_proxy_upper_torso_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

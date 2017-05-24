@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 014ee737fc0d234488f65d726258c348
+timeCreated: 1493221256
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AnKleBone01_Wood
+    100002: AnKleBone02_Wood
+    100004: AnKleBone03_Wood
+    100006: ApendA01
+    100008: ApendA02
+    100010: ApendA03
+    100012: ApendA03_002
+    100014: ApendB01
+    100016: ApendB02
+    100018: ApendB03
+    100020: ApendB04
+    100022: ApendB05
+    100024: ApendB05_Control_001
+    100026: ApendC01
+    100028: ApendC02
+    100030: ApendC03
+    100032: ApendC04
+    100034: ApendC04_001
+    100036: Armature
+    100038: Base
+    100040: Chest
+    100042: //RootNode
+    100044: Feet_Stone
+    100046: Finger01_Stone
+    100048: Finger01_Wood
+    100050: Finger02_Stone
+    100052: Finger02_Wood
+    100054: FootControl_Stone
+    100056: FootControl_Wood
+    100058: FootMain_Wood
+    100060: ForeArm_Stone
+    100062: ForeArm_Wood
+    100064: HandControl_Stone
+    100066: HandControl_Wood
+    100068: Head
+    100070: Hipp
+    100072: Neck
+    100074: Retopo
+    100076: Shin_Stone
+    100078: Shin_Wood
+    100080: Shoulder_Stone
+    100082: Shoulder_Wood
+    100084: Thigh_Stone
+    100086: Thigh_Wood
+    100088: ThighPivot_Stone
+    100090: ThighPivot_Wood
+    100092: Toe01_Wood
+    100094: Toe01Control_Wood
+    100096: Toe02_Wood
+    100098: Toe02Control_Wood
+    100100: Toe03_Wood
+    100102: Toe03Control_Wood
+    100104: UpperArm_Stone
+    100106: UpperArm_Wood
+    100108: UpperArmPivot_Stone
+    100110: UpperArmPivot_Wood
+    400000: AnKleBone01_Wood
+    400002: AnKleBone02_Wood
+    400004: AnKleBone03_Wood
+    400006: ApendA01
+    400008: ApendA02
+    400010: ApendA03
+    400012: ApendA03_002
+    400014: ApendB01
+    400016: ApendB02
+    400018: ApendB03
+    400020: ApendB04
+    400022: ApendB05
+    400024: ApendB05_Control_001
+    400026: ApendC01
+    400028: ApendC02
+    400030: ApendC03
+    400032: ApendC04
+    400034: ApendC04_001
+    400036: Armature
+    400038: Base
+    400040: Chest
+    400042: //RootNode
+    400044: Feet_Stone
+    400046: Finger01_Stone
+    400048: Finger01_Wood
+    400050: Finger02_Stone
+    400052: Finger02_Wood
+    400054: FootControl_Stone
+    400056: FootControl_Wood
+    400058: FootMain_Wood
+    400060: ForeArm_Stone
+    400062: ForeArm_Wood
+    400064: HandControl_Stone
+    400066: HandControl_Wood
+    400068: Head
+    400070: Hipp
+    400072: Neck
+    400074: Retopo
+    400076: Shin_Stone
+    400078: Shin_Wood
+    400080: Shoulder_Stone
+    400082: Shoulder_Wood
+    400084: Thigh_Stone
+    400086: Thigh_Wood
+    400088: ThighPivot_Stone
+    400090: ThighPivot_Wood
+    400092: Toe01_Wood
+    400094: Toe01Control_Wood
+    400096: Toe02_Wood
+    400098: Toe02Control_Wood
+    400100: Toe03_Wood
+    400102: Toe03Control_Wood
+    400104: UpperArm_Stone
+    400106: UpperArm_Wood
+    400108: UpperArmPivot_Stone
+    400110: UpperArmPivot_Wood
+    4300000: Retopo
+    7400000: Default Take
+    7400002: Attack_A
+    7400004: AttackB
+    7400006: AttackC
+    7400008: AttackD
+    7400010: AttackE
+    7400012: Idle
+    7400014: Run01
+    7400016: Walk
+    9500000: //RootNode
+    13700000: Retopo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
